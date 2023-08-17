@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2023-08-17T17:52:15.970Z"
+        },
+        {
+            "id": 2,
+            "description": "Jantar",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 100,
+            "createdAt": "2023-08-17T17:56:15.970Z"
+        },
+        {
+            "id": 3,
+            "description": "Curso Front-end",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 5930,
+            "createdAt": "2023-08-18T17:56:15.970Z"
+        }
+    ]
+}
