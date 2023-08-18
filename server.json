@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-08-17T17:52:15.970Z"
-        },
-        {
-            "id": 2,
-            "description": "Jantar",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 100,
-            "createdAt": "2023-08-17T17:56:15.970Z"
-        },
-        {
-            "id": 3,
-            "description": "Curso Front-end",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 5930,
-            "createdAt": "2023-08-18T17:56:15.970Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-08-17T17:52:15.970Z"
+    },
+    {
+      "id": 2,
+      "description": "Jantar",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 100,
+      "createdAt": "2023-08-17T17:56:15.970Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Front-end",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 5930,
+      "createdAt": "2023-08-18T17:56:15.970Z"
+    },
+    {
+      "description": "Aula programação",
+      "price": 600,
+      "category": "Estudo",
+      "type": "outcome",
+      "createdAt": "2023-08-18T13:35:23.182Z",
+      "id": 4
+    },
+    {
+      "description": "Aula",
+      "price": 10000,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2023-08-18T13:38:49.426Z",
+      "id": 5
+    }
+  ]
 }
